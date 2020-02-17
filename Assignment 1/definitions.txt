@@ -1,0 +1,15 @@
+-- CIT 381 Fall 2019
+-- Assignment #1
+-- October 11th
+-- Lillie Rose
+
+-- definitions
+-- Search for the definitions
+database schema: a schema refers to the organization of a collection of objects, usually in the from of tables and entries into the table; it is used to help navigate databases.
+DBMS: a Database Management System is a system that is used to collect, alter and manage the data of a database; it helps keeps data management organized.
+primary key: a column or a combimation of columns that will be unique with all rows.
+forigen key: columns that like its table to other tables.
+surrogate key: is a column with a unique identifier, like the primary key.
+entity integrity: the part of the database systen that ensures that the identified primary be is able to be and maintains it.
+referential integrity: associated with forigen keys, makes sure that all data relations are valid and contextual
+weak entity: any entities that alone cannpt be uniquely identitfed; often, they must be combined with another column to be properly identified.

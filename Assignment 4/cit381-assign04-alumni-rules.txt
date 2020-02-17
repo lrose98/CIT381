@@ -1,0 +1,24 @@
+-- CIT 381
+
+-- Fall 2019
+
+-- Assignment 4
+
+-- Lillie Rose
+
+Three tables: member_list, success_stories
+
+member_list ---- success_stories
+One alumni member can have many success stories (implied cardinality: 1:1)
+One success_story has one alumni member (implied cardinality, 1:N)
+A success story must have an alumni member (enforced)
+Not every alumni member will have a success story
+Non-identifying relationship
+
+course_regisration ---- member_list
+One alumni member may be assigned to many courses (implied cardinality, 1:1)
+One course may be assigned to many courses (implied cardinality, 1:1)
+Identifying relationship
+
+success_stories ---- course_regisration 
+A success story and a course may share an alumni member (implied cardinality, 1:M)

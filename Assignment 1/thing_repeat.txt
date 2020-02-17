@@ -1,0 +1,9 @@
+-- CIT 381 Fall 2019
+-- Assignment #1
+-- October 11th
+-- Lillie Rose
+
+-- thing_repeat
+-- Identify the columns with repeating entries
+movie
+minute_length

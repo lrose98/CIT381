@@ -1,0 +1,13 @@
+// CIT 381
+// Assignment 05
+// Lillie Rose
+
+GET
+http://localhost:8080/alumni
+{"rows":[{"member_id":1,"first_name":"Caleb","last_name":"Jenkins","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":2,"first_name":"Holly","last_name":"Holland","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":3,"first_name":"Jas","last_name":"Stilinski","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null}],"err":""}
+http://localhost:8080/alumni:member_id
+{"rows":[{"member_id":1,"first_name":"Caleb","last_name":"Jenkins","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":2,"first_name":"Holly","last_name":"Holland","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":3,"first_name":"Jas","last_name":"Stilinski","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null}],"err":""}
+POST
+http://localhost:8080/alumni.html
+{"member_id":4,"first_name":"June","last_name":"Washington","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null}
+{"rows":[{"member_id":1,"first_name":"Caleb","last_name":"Jenkins","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":2,"first_name":"Holly","last_name":"Holland","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},{"member_id":3,"first_name":"Jas","last_name":"Stilinski","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null}], {"member_id":4,"first_name":"June","last_name":"Washington","email_address":null,"phone_number":null,"graduation_date":null,"other_details":null},"err":""}

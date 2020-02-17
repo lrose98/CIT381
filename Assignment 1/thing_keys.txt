@@ -1,0 +1,9 @@
+-- CIT 381 Fall 2019
+-- Assignment #1
+-- October 11th
+-- Lillie Rose
+
+-- thing_repeat
+-- Identify pairs of columns that could be set as keys
+minute_length, year
+number, title

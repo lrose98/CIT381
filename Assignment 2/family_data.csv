@@ -1,0 +1,7 @@
+"person_id";"relationship_id";"person_1";"person_2";"gen_id"
+1;1;"";"Mother";"2"
+2;2;"";"Sister";"1"
+7;7;"Father";"";"2"
+8;8;"Mother";"";"2"
+9;9;"";"Father";"2"
+10;10;"Brother";"";"1"

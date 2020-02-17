@@ -1,0 +1,56 @@
+﻿# CIT 381,,,,,,,,,
+#Assignment 7,,,,,,,,,
+#r/girlsgonewild Database,,,,,,,,,
+#Lillie Rose,,,,,,,,,
+,,,,,,,,,
+#analytics,,,,,,,,,
+id,ups ,downs,score,likes,,,,,
+dbzbvc,189,0,189,NULL,,,,,
+celus2,18,0,18,NULL,,,,,
+e2055n,9,0,9,NULL,,,,,
+e02gdq,26,0,26,NULL,,,,,
+dzs2og,94,0,94,NULL,,,,,
+dznfjz,5,0,5,NULL,,,,,
+dzsw8p,1,0,1,NULL,,,,,
+dz4icf,14,0,14,NULL,,,,,
+dym7e9,11,0,11,NULL,,,,,
+dy1ywy,4,0,4,NULL,,,,,
+#crossposts,,,,,,,,,
+id,is_crosspostable,num_crossposts,,,,,,,
+dbzbvc,FALSE,0,,,,,,,
+celus2,FALSE,0,,,,,,,
+e2055n,FALSE,0,,,,,,,
+e02gdq,FALSE,0,,,,,,,
+dzs2og,FALSE,0,,,,,,,
+dznfjz,FALSE,0,,,,,,,
+dzsw8p,FALSE,0,,,,,,,
+dz4icf,FALSE,0,,,,,,,
+dym7e9,FALSE,0,,,,,,,
+dy1ywy,FALSE,0,,,,,,,
+#posts,,,,,,,,,
+id,subreddit_id,title,selftext,created_utc,edited,removed_by,url,num_comments,author_fullname
+dbzbvc,t5_2v7hs,"""If you\u2019re at Grace Hopper this week, make sure to come say hi.""","""""",1569961859,FALSE,NULL,https://i.redd.it/km7lcf1wozp31.jpg,16,t2_11ilczno
+celus2,t5_2v7hs,"""GHC Discussion Super Thread (NO TICKET DISCUSSION)""","""Hey everyone!\n\nSince there are several legitimate questions about GHC that have nothing to do with acquiring tickets, I figured having a dedicated place to ask your questions about GHC would be nice.\n\nPlease feel free to discuss GHC at length, but please do not discuss ticket pricing or attempt ticket swaps in this thread. Instead, please go [here](https://old.reddit.com/r/girlsgonewired/comments/celtst/ghc_tickets_super_thread_2019_edition/) for that.\n\nAs this thread is meant to contain discussion on GHC, all other GHC-related threads will be removed automatically until GHC passes.\n\nThank you!""",1563412955,1563414376,NULL,https://www.reddit.com/r/girlsgonewired/comments/celus2/ghc_discussion_super_thread_no_ticket_discussion/,76,t2_3kt5x
+e2055n,t5_2v7hs,"""Ada developers accademy cohort 14""","""Hi, is there someone who is preparing the application?""",1574785050,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/e2055n/ada_developers_accademy_cohort_14/,2,t2_4qzh5vuq
+e02gdq,t5_2v7hs,"""Overreacting to requests to \u201cchat to so-and-so who\u2019s interested in getting a job in what you do\u201d?""","""Hi there! Sorry for the throw away account, I feel more comfortable asking about this anonymously. I work as a data scientist for an old school corporate company. We are a small team and haven\u2019t hired any other data scientists yet. The company is not diverse at all \u2014 there are women around but we are definitely in the minority and I only work with white men. \n\nSince I\u2019ve started in spring of this year, I\u2019ve had 6 men ask me for a meeting to tell them what my job is and how I \u201cgot into it\u201d. Usually these get scheduled for 30 minutes but go on for 45 to an hour plus. We meet at my desk and I talk about what data science encompasses and show them some of the projects I\u2019m working on. \n\nThe people I meet with are all on the business side of things \u2014 I honestly get the feeling they\u2019ve heard about data science and how much it pays and just want to see if they can do it? I don\u2019t know. Because we are new I feel a lot of pressure to \u201csell\u201d our team and evangelize what we can do for the company to generate general good will, but most of the men who ask me aren\u2019t really in positions to stand up for us in a budget meeting or advocate for us to a higher-up. \n\nYesterday I got asked to have coffee with a male intern who is thinking about doing a masters in data science and I am feeling so frustrated. I am so busy and am just sick and tired of having these little chats that waste my time and do nothing for me or my career. I feel like it\u2019s a lose-lose \u2014 if I say I\u2019m too busy I am rude or difficult and if I say yes it\u2019s like nothing changes except I waste my time where I could be doing actual things for my job. \n\nI have a PhD and work experience in this field. I didn\u2019t just \u2018decide\u2019 to get into one day \u2014 I have an advanced degree and have worked very very hard for a long time. I just get the sense people see me and are like, oh if she can do it what\u2019s the big deal? I\u2019ve even had male coworkers ask me to email their college-age kids offering advice! Like... wtf?!? I don\u2019t know maybe I\u2019m being too sensitive. Has anyone else experienced this and am I overreacting? I just don\u2019t think a male data scientist would experience the same. But on the other hand I think if I had a male coworker and they were the ones being asked I\u2019d feel that was a bit sexist as well? I just know generally it\u2019s a thing that women\u2019s time is treated as more disposable than men\u2019s and I just don\u2019t know what to do or what to say. Any comments / commiseration / advice appreciated.""",1574436393,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/e02gdq/overreacting_to_requests_to_chat_to_soandso_whos/,14,t2_52k859bd
+dzs2og,t5_2v7hs,"""Marissa Orr's AMA yesterday pissed me off enough to write 4000 words on it.""","""I guess you all might have come across Marissa Orr's AMA yesterday (https://www.reddit.com/r/IAmA/comments/dz3moh/after_working_at_google_facebook_for_15_years_i/). I did too, and it was shocking how she's using her credentials to push traditional gender roles. I'm glad people called her out on her BS.\n\nBut as someone who's been a techie for ten years, I felt a responsibility to read her book, and call it out on all its logical fallacies and point out what she's missing. This is because I'm increasingly meeting women who don't really understand that they need communities of women as a resource to achieve their full potential, and they might be falling for her kind of logic. \n\nSo I listened to her book real quick at 1.5x speed last night and wrote a critique along with some advice and perspective as an older woman programmer. (I borrowed it from the library, because I want to support libraries, and don't want to give her my money). \n\nhttps://lila.substack.com/p/marissa-orr-is-not-like-other-girls\n\nI'd love opinions and if you feel I've missed anything or got anything wrong, I'd like to know, so I can write a more evolved piece.""",1574378940,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dzs2og/marissa_orrs_ama_yesterday_pissed_me_off_enough/,31,t2_k6u0h
+dznfjz,t5_2v7hs,"""Women in STEM scholarships for college students?""","""I'm having a hard time finding scholarships for women in STEM for college tuition. Most of the scholarships I've found are for bootcamps or attending conferences.\n\nAre there important resources that I'm missing?""",1574360448,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dznfjz/women_in_stem_scholarships_for_college_students/,14,t2_ieu78
+dzsw8p,t5_2v7hs,"""Suggestions to increase female/non-binary applicants?""","""Hi all, \n\nI work as an IT tech writer at a regional company with about 1600 employees. We have a lot of women in service roles, but few in exec management (1). In IT, we have no female VPs and only 3 AVPs. By my estimate, we are under 20% women (and 1 nb, that's me!). Maybe less. \n\nI brought this up at a focus group and it caught some ears. I was told they aren't getting any female applicants to begin with. I know long term they need to work on their culture, but I was wondering if you fine folks had any suggestions for something they can do in the short term, as a first step?""",1574382619,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dzsw8p/suggestions_to_increase_femalenonbinary_applicants/,3,t2_1uycyhju
+dz4icf,t5_2v7hs,"""Should I take this opportunity?""","""Hi all. I'm a junior dev currently at a medium sized company doing an apprenticeship (UK). I've got an opportunity to move to a different (though smaller) company that I feel would be far better for my career development than my current company for a variety of reasons I won't bore you with, however I'm torn as to whether or not I should take it because I have only been at my current company for 11 months. Plus, I expect to be moving away from this city in about 18 months time for personal reasons and I'm hesitant because I'm reluctant to have an 11 month job and a 18 month job on my CV. Please help, what would you do in my position? I'm so torn haha I don't know what to do! Thanks in advance.""",1574267832,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dz4icf/should_i_take_this_opportunity/,9,t2_523a66y7
+dym7e9,t5_2v7hs,"""Interview take home assignments - Best practices for interviewees? Must dos? Mustn't dos?""","""Hey ladies\n\nBeen a while since I interviewed, and it seems take home assignments are the norm these days. Can someone shed some light on what a good take home assignment looks like to a company? Especially those who are working already and grading these take homes - what do you look for?\n\n\\- What level of commenting? Enough to be understood or an actual documentation standard?\n\n\\- What level of testing? A suite of unit tests?\n\n\\- What level of file organization? Say you have one or two classes - break them out into separate files/modules?\n\n\\- Anything else?\n\nDo you have an example somewhere of what a good Python take home submission looks like?\n\nThanks for any tips! Want to do my best at some upcoming take homes.""",1574178733,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dym7e9/interview_take_home_assignments_best_practices/,7,t2_3dmu0
+dy1ywy,t5_2v7hs,"""Women/non-binary tutors recommendations?""","""I would love to find more video/blog tutorials (design patterns, refactoring, fun projects, etc) by people other than just white dudes.""",1574076383,FALSE,NULL,https://www.reddit.com/r/girlsgonewired/comments/dy1ywy/womennonbinary_tutors_recommendations/,3,t2_crb1kpp
+#subreddit,,,,,,,,,
+subreddit_id,subreddit,subreddit_type,subreddit_subscribers,,,,,,
+t5_2v7hs,girlsgonewired,public,12502,,,,,,
+#users,,,,,,,,,
+author,subreddit_id,author_fullname,,,,,,,
+SingShredCode,t5_2v7hs,t2_11ilczno,,,,,,,
+Byeuji,t5_2v7hs,t2_3kt5x,,,,,,,
+little_stinker16,t5_2v7hs,t2_4qzh5vuq,,,,,,,
+cosifantuttelebelle,t5_2v7hs,t2_52k859bd,,,,,,,
+MyCommentsAreFiction,t5_2v7hs,t2_k6u0h,,,,,,,
+pomegra,t5_2v7hs,t2_ieu78,,,,,,,
+LSparklepants,t5_2v7hs,t2_1uycyhju,,,,,,,
+badAtDecisions1029,t5_2v7hs,t2_523a66y7,,,,,,,
+considerphi,t5_2v7hs,t2_3dmu0,,,,,,,
+cmd_alt_elude,t5_2v7hs,t2_crb1kpp,,,,,,,

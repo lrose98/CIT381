@@ -1,0 +1,18 @@
+-- CIT 381 Fall 2019
+-- Assignment #1
+-- October 11th
+-- Lillie Rose
+
+-- database_uses
+-- 10 Ways Data can be used in the field of PPPM
+
+1. compiling survey data tables
+2. making maps using Geographic Information Systems
+3. for policy analysis
+4. categorize zoning codes
+5. help keep track of non profit donations
+6. interpret resident responses from a form
+7. determine the distribution of wealth, age, income, etc
+8. keep track of government finances
+9. catalog student grades over the course of a term
+10. inform federal/non profit agenicies on the facts and opinions of the people they are affecting
